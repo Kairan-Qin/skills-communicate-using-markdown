@@ -3,7 +3,7 @@
 ### Hi, this is Kairan!
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
